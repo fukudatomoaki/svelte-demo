@@ -1,7 +1,7 @@
 #svelte demo
 
 ```
-install dependencies
+#install dependencies
 yarn install
 
 #start dev server
